@@ -1,7 +1,6 @@
 # Predictive Analytics — CCT College Dublin (2026)
 
-Final project for the Predictive Data Analytics module, CCT College Dublin,
-Diploma in Data Analytics (Summer 2026). The notebook covers four independent
+Final project for the Diploma in Predictive Data Analytics, CCT College Dublin (Summer 2026). The notebook covers four independent
 tasks, each using a different dataset and modelling approach:
 
 | Question | Task | Dataset | Models |
